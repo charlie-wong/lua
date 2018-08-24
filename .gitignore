@@ -1,3 +1,10 @@
-_*
-.DS_Store
+temp
+build
 
+_*
+*.o
+*.a
+*.dll
+*.exe
+.DS_Store
+CMakeLists.txt.user
